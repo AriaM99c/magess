@@ -1,0 +1,2 @@
+# magess
+GitHub Pages
